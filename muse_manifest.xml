@@ -1,0 +1,1311 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="zenteno.com" resolutions="1x" timestamp="1672410821133">
+  <folder name="css">
+    <file name="site_global.css" crc="4141095816"/>
+    <file name="master_videomaster.css" crc="4189458743" ref="zenteno-doc-trailer:zenteno-documentary"/>
+    <file name="master_a-roberto-menu.css" crc="123705445" ref="roberto-bravo!:semana:chronicle:ricky:wishes"/>
+    <file name="master_a-master.css" crc="3983741047" ref="donors:index:zenteno-sculpture-project-donate:history:assets:norma:zenteno-sculpture-project:roberto:merchandise:the-band:credits---thank-you!"/>
+    <file name="master_b-master.css" crc="77365323" ref="index:merchandise:the-band:credits---thank-you!"/>
+    <file name="zenteno-doc-trailer.css" crc="4149654152" ref="zenteno-doc-trailer"/>
+    <file name="donors.css" crc="13561961" ref="donors"/>
+    <file name="roberto-bravo_.css" crc="3775657877" ref="roberto-bravo!"/>
+    <file name="index.css" crc="408270970" ref="index"/>
+    <file name="zenteno-sculpture-project-donate.css" crc="224655505" ref="zenteno-sculpture-project-donate"/>
+    <file name="history.css" crc="519543358" ref="history"/>
+    <file name="assets.css" crc="3884693631" ref="assets"/>
+    <file name="semana.css" crc="340399786" ref="semana"/>
+    <file name="norma.css" crc="4080041012" ref="norma"/>
+    <file name="zenteno-sculpture-project.css" crc="158362091" ref="zenteno-sculpture-project"/>
+    <file name="zenteno-documentary.css" crc="4208549527" ref="zenteno-documentary"/>
+    <file name="chronicle.css" crc="3841688470" ref="chronicle"/>
+    <file name="roberto.css" crc="393293393" ref="roberto"/>
+    <file name="ricky.css" crc="4242392397" ref="ricky"/>
+    <file name="merchandise.css" crc="343305890" ref="merchandise"/>
+    <file name="the-band.css" crc="456195730" ref="the-band"/>
+    <file name="wishes.css" crc="387849692" ref="wishes"/>
+    <file name="credits---thank-you_.css" crc="469802579" ref="credits---thank-you!"/>
+  </folder>
+  <folder name="assets">
+    <file name="npat01.jpg" crc="314877373" seo="true" mt="1473176056000"/>
+    <file name="norma-pp.jpg" crc="3949527298" seo="true" mt="1473715040000"/>
+    <file name="zentenosculpture_savethedate.jpg" crc="121001115" seo="true" mt="1498851417000"/>
+    <file name="paypalready.jpg" crc="39328864" seo="true" mt="1500392409000"/>
+    <file name="mt-dropzone-email.php" crc="457713823" seo="true" mt="1473967254000"/>
+    <file name="mt-dropzone-uploader.php" crc="3890627517" seo="true" mt="1467219710000"/>
+    <file name="mt-dropzone-remover.php" crc="3841480597" seo="true" mt="1467219691000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:history:merchandise:the-band:norma:roberto:credits---thank-you!:zenteno-sculpture-project:roberto-bravo!:wishes:semana:ricky:chronicle:assets:donors:zenteno-doc-trailer:zenteno-sculpture-project-donate:zenteno-documentary"/>
+    <file name="museutils.js" crc="340535759" ref="index:history:merchandise:the-band:norma:roberto:credits---thank-you!:zenteno-sculpture-project:roberto-bravo!:wishes:semana:ricky:chronicle:assets:donors:zenteno-doc-trailer:zenteno-sculpture-project-donate:zenteno-documentary"/>
+    <file name="whatinput.js" crc="86476730" ref="index:history:merchandise:the-band:norma:roberto:credits---thank-you!:zenteno-sculpture-project:roberto-bravo!:wishes:semana:ricky:chronicle:assets:donors:zenteno-doc-trailer:zenteno-sculpture-project-donate:zenteno-documentary"/>
+    <file name="museconfig.js" crc="310584261" ref="index:history:merchandise:the-band:norma:roberto:credits---thank-you!:zenteno-sculpture-project:roberto-bravo!:wishes:semana:ricky:chronicle:assets:donors:zenteno-doc-trailer:zenteno-sculpture-project-donate:zenteno-documentary"/>
+    <file name="webpro.js" crc="4059564322" ref="index:history:the-band:norma:roberto:zenteno-sculpture-project"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index:history:the-band:norma:roberto:zenteno-sculpture-project"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index:history:the-band:norma:roberto:zenteno-sculpture-project"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index:history:the-band:norma:roberto:zenteno-sculpture-project"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:history:merchandise:the-band:norma:roberto:credits---thank-you!:zenteno-sculpture-project:roberto-bravo!:wishes:semana:ricky:chronicle:assets:donors:zenteno-doc-trailer:zenteno-sculpture-project-donate:zenteno-documentary"/>
+    <file name="require.js" crc="7928878" ref="index:history:merchandise:the-band:norma:roberto:credits---thank-you!:zenteno-sculpture-project:roberto-bravo!:wishes:semana:ricky:chronicle:assets:donors:zenteno-doc-trailer:zenteno-sculpture-project-donate:zenteno-documentary"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="zenteno-sculpture-project:zenteno-doc-trailer:zenteno-sculpture-project-donate:zenteno-documentary"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="zenteno-sculpture-project:zenteno-sculpture-project-donate"/>
+  </folder>
+  <folder name="images">
+    <file name="zenteno-spirit-favicon.ico" crc="3937784199" ref="index"/>
+    <file name="orangeyellow.jpg" crc="3858676641" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="01zenteno01.jpg" crc="3766328931" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1013-4.png" crc="4278431477" ref="index"/>
+    <file name="film title.jpg" crc="195333663" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u11910-3.png" crc="140404312" ref="index"/>
+    <file name="norma-memory-orange.svg" crc="216234305" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="norma-memory-orange_poster_.png" crc="355877229" ref="index"/>
+    <file name="u12412-8.png" crc="459912075" ref="index"/>
+    <file name="u15632-4.png" crc="3918647523" ref="index"/>
+    <file name="u2364-4.png" crc="4253900668" ref="index:history:merchandise:the-band:norma:roberto:credits---thank-you!:zenteno-sculpture-project:assets:donors:zenteno-sculpture-project-donate"/>
+    <file name="u2370-4.png" crc="206517237" ref="index:history:merchandise:the-band:norma:roberto:credits---thank-you!:zenteno-sculpture-project:assets:donors:zenteno-sculpture-project-donate"/>
+    <file name="u2374-4.png" crc="433243093" ref="index:history:merchandise:the-band:norma:roberto:credits---thank-you!:zenteno-sculpture-project:assets:donors:zenteno-sculpture-project-donate"/>
+    <file name="u2378-4.png" crc="4236195898" ref="index:history:merchandise:the-band:norma:roberto:credits---thank-you!:zenteno-sculpture-project:assets:donors:zenteno-sculpture-project-donate"/>
+    <file name="u2382-4.png" crc="4231225462" ref="index:history:merchandise:the-band:norma:roberto:credits---thank-you!:zenteno-sculpture-project:assets:donors:zenteno-sculpture-project-donate"/>
+    <file name="u2386-4.png" crc="3813466065" ref="index:history:merchandise:the-band:norma:roberto:credits---thank-you!:zenteno-sculpture-project:assets:donors:zenteno-sculpture-project-donate"/>
+    <file name="u8935-4.png" crc="3791973520" ref="index:history:merchandise:the-band:norma:roberto:credits---thank-you!:zenteno-sculpture-project:assets:donors:zenteno-sculpture-project-donate"/>
+    <file name="zentenospiritforweb-u386.png" crc="158143788" ref="index:merchandise:the-band:credits---thank-you!"/>
+    <file name="scenes-u630.png" crc="529153977" ref="index"/>
+    <file name="ms01roberto04cr.jpg" crc="3853793301" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:history:the-band:norma:roberto:zenteno-sculpture-project"/>
+    <file name="ms02roberto07cr.jpg" crc="181199588" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="walking.jpg" crc="85943670" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ms03roberto- wifw cr.jpg" crc="4235187012" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="momnormabobby.jpg" crc="3934899962" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ms0545cover02on yellow.jpg" crc="481058903" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ms04norma pigtailscr.jpg" crc="3814196596" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ms06roberto - norma01cr.jpg" crc="52578192" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="building map-crop-u13964.jpg" crc="159251434" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bigband rt.jpg" crc="4067526519" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mexican hat.jpg" crc="4212110322" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ms07roberto05crop.jpg" crc="96899642" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ms08norma young guitar cr.jpg" crc="450758300" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ms09the band cr.jpg" crc="57240253" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ms10_norma19cr.jpg" crc="4191706856" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ms11norma05cr.jpg" crc="451023391" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ms13norma 15 - 8x10cr.jpg" crc="3871488441" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ms14roberto02cr.jpg" crc="22945050" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ms12090 benefitcr.jpg" crc="3965355330" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ms15norma - yellowcr.jpg" crc="4138848612" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ms16pink painting042cr.jpg" crc="4117076256" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ms17altar1cr.jpg" crc="4248090715" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ms18javier in white cr rt.jpg" crc="457924938" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ms19zentenospirit002cr.jpg" crc="3842541615" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ms01roberto04cr60x50.jpg" crc="283186929" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ms02roberto07cr60x50.jpg" crc="64291258" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="walking-crop-u5719.jpg" crc="4005309030" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ms03roberto- wifw cr60x50.jpg" crc="4215720614" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="momnormabobby60x50.jpg" crc="105062983" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ms0545cover02on yellow60x50.jpg" crc="286378457" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ms04norma pigtailscr60x50.jpg" crc="4289819" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ms06roberto - norma01cr60x50.jpg" crc="4277396478" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="building map70x45.jpg" crc="507910046" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bigband rt66x45.jpg" crc="4134854869" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mexican hat67x45.jpg" crc="4267797216" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ms07roberto05crop60x50.jpg" crc="534871763" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ms08norma young guitar cr60x50.jpg" crc="143809030" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ms09the band cr60x50.jpg" crc="33834177" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ms10_norma19cr60x50.jpg" crc="111457949" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ms11norma05cr60x50.jpg" crc="305921921" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ms13norma 15 - 8x10cr60x50.jpg" crc="3812122190" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ms14roberto02cr60x50.jpg" crc="169141925" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ms12090 benefitcr60x50.jpg" crc="349600745" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ms15norma - yellowcr60x50.jpg" crc="482689337" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ms16pink painting042cr60x50.jpg" crc="3816483460" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ms17altar1cr60x50.jpg" crc="4054335203" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ms18javier in white cr rt60x54.jpg" crc="434340661" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ms19zentenospirit002cr60x50.jpg" crc="319004803" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:history:the-band:norma:roberto:zenteno-sculpture-project"/>
+    <file name="zenteno sound ad.jpg" crc="134313024" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="barrio dogs ad.jpg" crc="76783030" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="zentenospirit initialsicon.png" crc="3986391998" seo="true" ref="index:history:merchandise:the-band:norma:roberto:credits---thank-you!:zenteno-sculpture-project:roberto-bravo!:wishes:semana:ricky:chronicle:assets:donors:zenteno-doc-trailer:zenteno-sculpture-project-donate:zenteno-documentary">
+      <caption webpage="wishes" alt=""/>
+      <caption webpage="norma" alt=""/>
+      <caption webpage="zenteno-documentary" alt=""/>
+      <caption webpage="chronicle" alt=""/>
+      <caption webpage="zenteno-sculpture-project" alt=""/>
+      <caption webpage="the-band" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="roberto-bravo!" alt=""/>
+      <caption webpage="zenteno-sculpture-project-donate" alt=""/>
+      <caption webpage="assets" alt=""/>
+      <caption webpage="donors" alt=""/>
+      <caption webpage="semana" alt=""/>
+      <caption webpage="ricky" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="zenteno-doc-trailer" alt=""/>
+      <caption webpage="roberto" alt=""/>
+      <caption webpage="merchandise" alt=""/>
+      <caption webpage="credits---thank-you!" alt=""/>
+    </file>
+    <file name="band icon wht.png" crc="12141160" seo="true" ref="index:history:merchandise:the-band:norma:roberto:credits---thank-you!:zenteno-sculpture-project:roberto-bravo!:wishes:semana:ricky:chronicle:assets:donors:zenteno-doc-trailer:zenteno-sculpture-project-donate:zenteno-documentary">
+      <caption webpage="wishes" alt=""/>
+      <caption webpage="norma" alt=""/>
+      <caption webpage="zenteno-documentary" alt=""/>
+      <caption webpage="chronicle" alt=""/>
+      <caption webpage="zenteno-sculpture-project" alt=""/>
+      <caption webpage="the-band" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="roberto-bravo!" alt=""/>
+      <caption webpage="zenteno-sculpture-project-donate" alt=""/>
+      <caption webpage="assets" alt=""/>
+      <caption webpage="donors" alt=""/>
+      <caption webpage="semana" alt=""/>
+      <caption webpage="ricky" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="zenteno-doc-trailer" alt=""/>
+      <caption webpage="roberto" alt=""/>
+      <caption webpage="merchandise" alt=""/>
+      <caption webpage="credits---thank-you!" alt=""/>
+    </file>
+    <file name="tshirticonwht.png" crc="114091665" seo="true" ref="index:history:merchandise:the-band:norma:roberto:credits---thank-you!:zenteno-sculpture-project:roberto-bravo!:wishes:semana:ricky:chronicle:assets:donors:zenteno-doc-trailer:zenteno-sculpture-project-donate:zenteno-documentary">
+      <caption webpage="wishes" alt=""/>
+      <caption webpage="norma" alt=""/>
+      <caption webpage="zenteno-documentary" alt=""/>
+      <caption webpage="chronicle" alt=""/>
+      <caption webpage="zenteno-sculpture-project" alt=""/>
+      <caption webpage="the-band" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="roberto-bravo!" alt=""/>
+      <caption webpage="zenteno-sculpture-project-donate" alt=""/>
+      <caption webpage="assets" alt=""/>
+      <caption webpage="donors" alt=""/>
+      <caption webpage="semana" alt=""/>
+      <caption webpage="ricky" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="zenteno-doc-trailer" alt=""/>
+      <caption webpage="roberto" alt=""/>
+      <caption webpage="merchandise" alt=""/>
+      <caption webpage="credits---thank-you!" alt=""/>
+    </file>
+    <file name="caliv icon wht.png" crc="163620411" seo="true" ref="index:history:merchandise:the-band:norma:roberto:credits---thank-you!:zenteno-sculpture-project:roberto-bravo!:wishes:semana:ricky:chronicle:assets:donors:zenteno-doc-trailer:zenteno-sculpture-project-donate:zenteno-documentary">
+      <caption webpage="wishes" alt=""/>
+      <caption webpage="norma" alt=""/>
+      <caption webpage="zenteno-documentary" alt=""/>
+      <caption webpage="chronicle" alt=""/>
+      <caption webpage="zenteno-sculpture-project" alt=""/>
+      <caption webpage="the-band" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="roberto-bravo!" alt=""/>
+      <caption webpage="zenteno-sculpture-project-donate" alt=""/>
+      <caption webpage="assets" alt=""/>
+      <caption webpage="donors" alt=""/>
+      <caption webpage="semana" alt=""/>
+      <caption webpage="ricky" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="zenteno-doc-trailer" alt=""/>
+      <caption webpage="roberto" alt=""/>
+      <caption webpage="merchandise" alt=""/>
+      <caption webpage="credits---thank-you!" alt=""/>
+    </file>
+    <file name="guitariconwht.png" crc="3994007157" seo="true" ref="index:history:merchandise:the-band:norma:roberto:credits---thank-you!:zenteno-sculpture-project:roberto-bravo!:wishes:semana:ricky:chronicle:assets:donors:zenteno-doc-trailer:zenteno-sculpture-project-donate:zenteno-documentary">
+      <caption webpage="wishes" alt=""/>
+      <caption webpage="norma" alt=""/>
+      <caption webpage="zenteno-documentary" alt=""/>
+      <caption webpage="chronicle" alt=""/>
+      <caption webpage="zenteno-sculpture-project" alt=""/>
+      <caption webpage="the-band" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="roberto-bravo!" alt=""/>
+      <caption webpage="zenteno-sculpture-project-donate" alt=""/>
+      <caption webpage="assets" alt=""/>
+      <caption webpage="donors" alt=""/>
+      <caption webpage="semana" alt=""/>
+      <caption webpage="ricky" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="zenteno-doc-trailer" alt=""/>
+      <caption webpage="roberto" alt=""/>
+      <caption webpage="merchandise" alt=""/>
+      <caption webpage="credits---thank-you!" alt=""/>
+    </file>
+    <file name="trumpet icon wht.png" crc="4020474062" seo="true" ref="index:history:merchandise:the-band:norma:roberto:credits---thank-you!:zenteno-sculpture-project:roberto-bravo!:wishes:semana:ricky:chronicle:assets:donors:zenteno-doc-trailer:zenteno-sculpture-project-donate:zenteno-documentary">
+      <caption webpage="wishes" alt=""/>
+      <caption webpage="norma" alt=""/>
+      <caption webpage="zenteno-documentary" alt=""/>
+      <caption webpage="chronicle" alt=""/>
+      <caption webpage="zenteno-sculpture-project" alt=""/>
+      <caption webpage="the-band" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="roberto-bravo!" alt=""/>
+      <caption webpage="zenteno-sculpture-project-donate" alt=""/>
+      <caption webpage="assets" alt=""/>
+      <caption webpage="donors" alt=""/>
+      <caption webpage="semana" alt=""/>
+      <caption webpage="ricky" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="zenteno-doc-trailer" alt=""/>
+      <caption webpage="roberto" alt=""/>
+      <caption webpage="merchandise" alt=""/>
+      <caption webpage="credits---thank-you!" alt=""/>
+    </file>
+    <file name="zenteno-movie-icon.svg" crc="4030784955" seo="true" ref="index:history:merchandise:the-band:norma:roberto:credits---thank-you!:zenteno-sculpture-project:roberto-bravo!:wishes:semana:ricky:chronicle:assets:donors:zenteno-doc-trailer:zenteno-sculpture-project-donate:zenteno-documentary">
+      <caption webpage="wishes" alt=""/>
+      <caption webpage="norma" alt=""/>
+      <caption webpage="zenteno-documentary" alt=""/>
+      <caption webpage="chronicle" alt=""/>
+      <caption webpage="zenteno-sculpture-project" alt=""/>
+      <caption webpage="the-band" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="roberto-bravo!" alt=""/>
+      <caption webpage="zenteno-sculpture-project-donate" alt=""/>
+      <caption webpage="assets" alt=""/>
+      <caption webpage="donors" alt=""/>
+      <caption webpage="semana" alt=""/>
+      <caption webpage="ricky" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="zenteno-doc-trailer" alt=""/>
+      <caption webpage="roberto" alt=""/>
+      <caption webpage="merchandise" alt=""/>
+      <caption webpage="credits---thank-you!" alt=""/>
+    </file>
+    <file name="zenteno movie icon_poster_.png" crc="4100220150" ref="index"/>
+    <file name="vimeov.png" crc="3901631413" seo="true" ref="index:history:merchandise:the-band:norma:roberto:credits---thank-you!:zenteno-sculpture-project:assets:donors:zenteno-sculpture-project-donate">
+      <caption webpage="assets" alt=""/>
+      <caption webpage="zenteno-sculpture-project" alt=""/>
+      <caption webpage="norma" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="credits---thank-you!" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="donors" alt=""/>
+      <caption webpage="roberto" alt=""/>
+      <caption webpage="merchandise" alt=""/>
+      <caption webpage="the-band" alt=""/>
+      <caption webpage="zenteno-sculpture-project-donate" alt=""/>
+    </file>
+    <file name="np_camera_108023_ffffff.svg" crc="59774861" seo="true" ref="index:history:merchandise:the-band:norma:roberto:credits---thank-you!:zenteno-sculpture-project:assets:donors:zenteno-sculpture-project-donate">
+      <caption webpage="assets" alt=""/>
+      <caption webpage="zenteno-sculpture-project" alt=""/>
+      <caption webpage="norma" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="credits---thank-you!" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="donors" alt=""/>
+      <caption webpage="roberto" alt=""/>
+      <caption webpage="merchandise" alt=""/>
+      <caption webpage="the-band" alt=""/>
+      <caption webpage="zenteno-sculpture-project-donate" alt=""/>
+    </file>
+    <file name="np_camera_108023_ffffff_poster_.png" crc="3854795332" ref="index"/>
+    <file name="whitetwitter.png" crc="255233200" seo="true" ref="index:history:merchandise:the-band:norma:roberto:credits---thank-you!:zenteno-sculpture-project:assets:donors:zenteno-sculpture-project-donate">
+      <caption webpage="assets" alt=""/>
+      <caption webpage="zenteno-sculpture-project" alt=""/>
+      <caption webpage="norma" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="credits---thank-you!" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="donors" alt=""/>
+      <caption webpage="roberto" alt=""/>
+      <caption webpage="merchandise" alt=""/>
+      <caption webpage="the-band" alt=""/>
+      <caption webpage="zenteno-sculpture-project-donate" alt=""/>
+    </file>
+    <file name="iconmonstr-facebook-3-icon-256.png" crc="3812360218" seo="true" ref="index:history:merchandise:the-band:norma:roberto:credits---thank-you!:zenteno-sculpture-project:roberto-bravo!:wishes:semana:ricky:chronicle:assets:donors:zenteno-doc-trailer:zenteno-sculpture-project-donate:zenteno-documentary">
+      <caption webpage="wishes" alt=""/>
+      <caption webpage="norma" alt=""/>
+      <caption webpage="zenteno-documentary" alt=""/>
+      <caption webpage="chronicle" alt=""/>
+      <caption webpage="zenteno-sculpture-project" alt=""/>
+      <caption webpage="the-band" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="roberto-bravo!" alt=""/>
+      <caption webpage="zenteno-sculpture-project-donate" alt=""/>
+      <caption webpage="assets" alt=""/>
+      <caption webpage="donors" alt=""/>
+      <caption webpage="semana" alt=""/>
+      <caption webpage="ricky" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="zenteno-doc-trailer" alt=""/>
+      <caption webpage="roberto" alt=""/>
+      <caption webpage="merchandise" alt=""/>
+      <caption webpage="credits---thank-you!" alt=""/>
+    </file>
+    <file name="iconmonstr-email-7-icon-wht.png" crc="3793378704" seo="true" ref="index:history:merchandise:the-band:norma:roberto:credits---thank-you!:zenteno-sculpture-project:roberto-bravo!:wishes:semana:ricky:chronicle:assets:donors:zenteno-doc-trailer:zenteno-sculpture-project-donate:zenteno-documentary">
+      <caption webpage="wishes" alt=""/>
+      <caption webpage="norma" alt=""/>
+      <caption webpage="zenteno-documentary" alt=""/>
+      <caption webpage="chronicle" alt=""/>
+      <caption webpage="zenteno-sculpture-project" alt=""/>
+      <caption webpage="the-band" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="roberto-bravo!" alt=""/>
+      <caption webpage="zenteno-sculpture-project-donate" alt=""/>
+      <caption webpage="assets" alt=""/>
+      <caption webpage="donors" alt=""/>
+      <caption webpage="semana" alt=""/>
+      <caption webpage="ricky" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="zenteno-doc-trailer" alt=""/>
+      <caption webpage="roberto" alt=""/>
+      <caption webpage="merchandise" alt=""/>
+      <caption webpage="credits---thank-you!" alt=""/>
+    </file>
+    <file name="wreath.png" crc="410122579" seo="true" ref="index:history:merchandise:the-band:norma:roberto:credits---thank-you!:zenteno-sculpture-project:roberto-bravo!:wishes:semana:ricky:chronicle:assets:donors:zenteno-doc-trailer:zenteno-sculpture-project-donate:zenteno-documentary">
+      <caption webpage="wishes" alt=""/>
+      <caption webpage="norma" alt=""/>
+      <caption webpage="zenteno-documentary" alt=""/>
+      <caption webpage="chronicle" alt=""/>
+      <caption webpage="zenteno-sculpture-project" alt=""/>
+      <caption webpage="the-band" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="roberto-bravo!" alt=""/>
+      <caption webpage="zenteno-sculpture-project-donate" alt=""/>
+      <caption webpage="assets" alt=""/>
+      <caption webpage="donors" alt=""/>
+      <caption webpage="semana" alt=""/>
+      <caption webpage="ricky" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="zenteno-doc-trailer" alt=""/>
+      <caption webpage="roberto" alt=""/>
+      <caption webpage="merchandise" alt=""/>
+      <caption webpage="credits---thank-you!" alt=""/>
+    </file>
+    <file name="green-bkgreduced.jpg" crc="4081723963" ref="index:history:merchandise:the-band:norma:roberto:credits---thank-you!:zenteno-sculpture-project:roberto-bravo!:wishes:semana:ricky:chronicle:assets:donors:zenteno-doc-trailer:zenteno-sculpture-project-donate:zenteno-documentary">
+      <caption webpage="wishes" alt=""/>
+      <caption webpage="norma" alt=""/>
+      <caption webpage="zenteno-documentary" alt=""/>
+      <caption webpage="chronicle" alt=""/>
+      <caption webpage="zenteno-sculpture-project" alt=""/>
+      <caption webpage="the-band" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="roberto-bravo!" alt=""/>
+      <caption webpage="zenteno-sculpture-project-donate" alt=""/>
+      <caption webpage="assets" alt=""/>
+      <caption webpage="donors" alt=""/>
+      <caption webpage="semana" alt=""/>
+      <caption webpage="ricky" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="zenteno-doc-trailer" alt=""/>
+      <caption webpage="roberto" alt=""/>
+      <caption webpage="merchandise" alt=""/>
+      <caption webpage="credits---thank-you!" alt=""/>
+    </file>
+    <file name="favicon.ico" crc="4169832148" ref="history"/>
+    <file name="04history layers02.jpg" crc="330755403" seo="true" ref="history">
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="purplevaudeville04-u4872.png" crc="4203435672" ref="history"/>
+    <file name="vaudeville01 copy.png" crc="243444131" seo="true" ref="history">
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="vaudeville02 copy.png" crc="3787471266" seo="true" ref="history">
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="vaudeville03 copy.jpg" crc="4248339402" seo="true" ref="history">
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="vaudeville04 copy.png" crc="351740326" seo="true" ref="history">
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="vaudeville05 copy.png" crc="104538972" seo="true" ref="history">
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="vaudeville06 copy.png" crc="135335182" seo="true" ref="history">
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="vaudeville07 copy.jpg" crc="308895121" seo="true" ref="history">
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="vaudeville08 copy.jpg" crc="526690419" seo="true" ref="history">
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="vaudeville09 copy.jpg" crc="4256652346" seo="true" ref="history">
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="vaudeville10 copy.jpg" crc="3956965391" seo="true" ref="history">
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="vaudeville11 copy.png" crc="276013136" seo="true" ref="history">
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="vaudeville24 copy.png" crc="378756175" seo="true" ref="history">
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="vaudeville23 copy.png" crc="4060609939" seo="true" ref="history">
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="vaudeville22 copy.png" crc="4245168576" seo="true" ref="history">
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="vaudeville21 copy.jpg" crc="4082389511" seo="true" ref="history">
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="vaudeville20 copy.png" crc="4166493007" seo="true" ref="history">
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="vaudeville19 copy.png" crc="249870717" seo="true" ref="history">
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="vaudeville18 copy.jpg" crc="107962917" seo="true" ref="history">
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="vaudeville17 copy.png" crc="504715041" seo="true" ref="history">
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="vaudeville16 copy.jpg" crc="3994340515" seo="true" ref="history">
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="vaudeville15 copy.jpg" crc="388326878" seo="true" ref="history">
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="vaudeville13 copy.jpg" crc="3958923402" seo="true" ref="history">
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="vaudeville12 copy.jpg" crc="3764455189" seo="true" ref="history">
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="vaudeville14.png" crc="520899271" seo="true" ref="history">
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="vaudeville01 copy60x49.png" crc="4231156924" seo="true" ref="history">
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="vaudeville02 copy-crop-u4644.png" crc="4207906957" seo="true" ref="history">
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="vaudeville03 copy-crop-u4653.jpg" crc="3985968543" seo="true" ref="history">
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="vaudeville04 copy-crop-u4662.png" crc="3829252463" seo="true" ref="history">
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="vaudeville05 copy-crop-u4671.png" crc="3868196859" seo="true" ref="history">
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="vaudeville06 copy-crop-u4680.png" crc="3855863205" seo="true" ref="history">
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="vaudeville07 copy-crop-u4689.jpg" crc="4281477107" seo="true" ref="history">
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="vaudeville08 copy-crop-u4698.jpg" crc="3822144482" seo="true" ref="history">
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="vaudeville09 copy-crop-u4707.jpg" crc="4081936706" seo="true" ref="history">
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="vaudeville10 copy60x55.jpg" crc="165720546" seo="true" ref="history">
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="vaudeville11 copy-crop-u4725.png" crc="3978594190" seo="true" ref="history">
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="vaudeville24 copy-crop-u4734.png" crc="298218903" seo="true" ref="history">
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="vaudeville23 copy60x49.png" crc="277455161" seo="true" ref="history">
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="vaudeville22 copy60x46.png" crc="24358344" seo="true" ref="history">
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="vaudeville21 copy-crop-u4761.jpg" crc="3938916981" seo="true" ref="history">
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="vaudeville20 copy-crop-u4770.png" crc="171165920" seo="true" ref="history">
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="vaudeville19 copy-crop-u4779.png" crc="4045354840" seo="true" ref="history">
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="vaudeville18 copy-crop-u4788.jpg" crc="3871913186" seo="true" ref="history">
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="vaudeville17 copy-crop-u4797.png" crc="446844992" seo="true" ref="history">
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="vaudeville16 copy-crop-u4806.jpg" crc="116239081" seo="true" ref="history">
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="vaudeville15 copy-crop-u4815.jpg" crc="4082892557" seo="true" ref="history">
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="vaudeville13 copy-crop-u4824.jpg" crc="24541023" seo="true" ref="history">
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="vaudeville12 copy-crop-u4833.jpg" crc="4103473450" seo="true" ref="history">
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="vaudeville14-crop-u4842.png" crc="419947888" seo="true" ref="history">
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="u4880-4.png" crc="256291522" ref="history"/>
+    <file name="merchandise pattern.jpg" crc="44101552" ref="merchandise">
+      <caption webpage="merchandise" alt=""/>
+    </file>
+    <file name="u3960-4.png" crc="4024953517" ref="merchandise"/>
+    <file name="cdcoverrobertzenteno.jpg" crc="3878600817" seo="true" ref="merchandise">
+      <caption webpage="merchandise" alt=""/>
+    </file>
+    <file name="cdcoverfllove.jpg" crc="3826204704" seo="true" ref="merchandise">
+      <caption webpage="merchandise" alt=""/>
+    </file>
+    <file name="cdcoverendulzame.jpg" crc="3816087104" seo="true" ref="merchandise">
+      <caption webpage="merchandise" alt=""/>
+    </file>
+    <file name="cdcoverbaseenttapes.jpg" crc="99334132" seo="true" ref="merchandise">
+      <caption webpage="merchandise" alt=""/>
+    </file>
+    <file name="u3867-29.png" crc="4204324129" ref="merchandise"/>
+    <file name="u3886-25.png" crc="4261693191" ref="merchandise"/>
+    <file name="u3890-27.png" crc="200621737" ref="merchandise"/>
+    <file name="u3917-23.png" crc="180598761" ref="merchandise"/>
+    <file name="normazenteno-prep-crop-u3891.jpg" crc="3887484753" seo="true" ref="merchandise">
+      <caption webpage="merchandise" alt=""/>
+    </file>
+    <file name="rockstarprep-crop-u3914.jpg" crc="4189376796" seo="true" ref="merchandise">
+      <caption webpage="merchandise" alt=""/>
+    </file>
+    <file name="norma-z-prep-crop-u3887.jpg" crc="518969979" seo="true" ref="merchandise">
+      <caption webpage="merchandise" alt=""/>
+    </file>
+    <file name="z-band-prep-crop-u3880.jpg" crc="188845574" seo="true" ref="merchandise">
+      <caption webpage="merchandise" alt=""/>
+    </file>
+    <file name="the band update2.jpg" crc="4061506300" seo="true" ref="the-band">
+      <caption webpage="the-band" alt=""/>
+    </file>
+    <file name="zentenospiritforweb-u3498.png" crc="4236282206" ref="the-band"/>
+    <file name="u3501-4.png" crc="452027798" ref="the-band"/>
+    <file name="band 1.jpg" crc="10944577" seo="true" ref="the-band">
+      <caption webpage="the-band" alt=""/>
+    </file>
+    <file name="band 2.jpg" crc="4090843975" seo="true" ref="the-band">
+      <caption webpage="the-band" alt=""/>
+    </file>
+    <file name="band_00.jpg" crc="4124671567" seo="true" ref="the-band">
+      <caption webpage="the-band" alt=""/>
+    </file>
+    <file name="band2.jpg" crc="80051551" seo="true" ref="the-band">
+      <caption webpage="the-band" alt=""/>
+    </file>
+    <file name="band9.jpg" crc="4128396312" seo="true" ref="the-band">
+      <caption webpage="the-band" alt=""/>
+    </file>
+    <file name="band10.jpg" crc="430173644" seo="true" ref="the-band">
+      <caption webpage="the-band" alt=""/>
+    </file>
+    <file name="band11.jpg" crc="361021146" seo="true" ref="the-band">
+      <caption webpage="the-band" alt=""/>
+    </file>
+    <file name="band12.jpg" crc="3807935719" seo="true" ref="the-band">
+      <caption webpage="the-band" alt=""/>
+    </file>
+    <file name="band13.jpg" crc="530571959" seo="true" ref="the-band">
+      <caption webpage="the-band" alt=""/>
+    </file>
+    <file name="band14.jpg" crc="4293315946" seo="true" ref="the-band">
+      <caption webpage="the-band" alt=""/>
+    </file>
+    <file name="band15.jpg" crc="3998061252" seo="true" ref="the-band">
+      <caption webpage="the-band" alt=""/>
+    </file>
+    <file name="band 168x45.jpg" crc="4117698228" seo="true" ref="the-band">
+      <caption webpage="the-band" alt=""/>
+    </file>
+    <file name="band 268x45.jpg" crc="4063771526" seo="true" ref="the-band">
+      <caption webpage="the-band" alt=""/>
+    </file>
+    <file name="band_0060x45.jpg" crc="331633467" seo="true" ref="the-band">
+      <caption webpage="the-band" alt=""/>
+    </file>
+    <file name="band264x45.jpg" crc="4022246283" seo="true" ref="the-band">
+      <caption webpage="the-band" alt=""/>
+    </file>
+    <file name="band960x45.jpg" crc="4180994427" seo="true" ref="the-band">
+      <caption webpage="the-band" alt=""/>
+    </file>
+    <file name="band1060x45.jpg" crc="4192749725" seo="true" ref="the-band">
+      <caption webpage="the-band" alt=""/>
+    </file>
+    <file name="band1160x45.jpg" crc="4136641407" seo="true" ref="the-band">
+      <caption webpage="the-band" alt=""/>
+    </file>
+    <file name="band1260x45.jpg" crc="509346742" seo="true" ref="the-band">
+      <caption webpage="the-band" alt=""/>
+    </file>
+    <file name="band1360x45.jpg" crc="166717460" seo="true" ref="the-band">
+      <caption webpage="the-band" alt=""/>
+    </file>
+    <file name="band1460x45.jpg" crc="404210133" seo="true" ref="the-band">
+      <caption webpage="the-band" alt=""/>
+    </file>
+    <file name="band1560x45.jpg" crc="215848408" seo="true" ref="the-band">
+      <caption webpage="the-band" alt=""/>
+    </file>
+    <file name="norma-s pattern 01.jpg" crc="3777785966" ref="norma">
+      <caption webpage="norma" alt=""/>
+    </file>
+    <file name="05norma layers.jpg" crc="75063658" seo="true" ref="norma">
+      <caption webpage="norma" alt=""/>
+    </file>
+    <file name="u2073-4.png" crc="4128391003" ref="norma"/>
+    <file name="mex cross placeholder.png" crc="505189006" seo="true" ref="norma">
+      <caption webpage="norma" alt=""/>
+    </file>
+    <file name="ns013.jpg" crc="3788393280" seo="true" ref="norma">
+      <caption webpage="norma" alt=""/>
+    </file>
+    <file name="ns02young norma.jpg" crc="12791915" seo="true" ref="norma">
+      <caption webpage="norma" alt=""/>
+    </file>
+    <file name="ns03roberto - norma01cr.jpg" crc="52578192" seo="true" ref="norma">
+      <caption webpage="norma" alt=""/>
+    </file>
+    <file name="ns049.jpg" crc="304953580" seo="true" ref="norma">
+      <caption webpage="norma" alt=""/>
+    </file>
+    <file name="ns053535_10200649443695379_521645391_n.jpg" crc="370973206" seo="true" ref="norma">
+      <caption webpage="norma" alt=""/>
+    </file>
+    <file name="ns06886714_4336155651944_1727515692_o.jpg" crc="25738378" seo="true" ref="norma">
+      <caption webpage="norma" alt=""/>
+    </file>
+    <file name="norma in 80s copy.jpg" crc="384304807" seo="true" ref="norma">
+      <caption webpage="norma" alt=""/>
+    </file>
+    <file name="ns07485203_10151500875654254_1728656053_n.jpg" crc="536487599" seo="true" ref="norma">
+      <caption webpage="norma" alt=""/>
+    </file>
+    <file name="ns10485062_10200643724112393_1423478954_n.jpg" crc="201407369" seo="true" ref="norma">
+      <caption webpage="norma" alt=""/>
+    </file>
+    <file name="ns08_11.jpg" crc="4241564790" seo="true" ref="norma">
+      <caption webpage="norma" alt=""/>
+    </file>
+    <file name="ns09rob-norm-jav.jpg" crc="3766289347" seo="true" ref="norma">
+      <caption webpage="norma" alt=""/>
+    </file>
+    <file name="ns11norma picture.jpg" crc="4088056527" seo="true" ref="norma">
+      <caption webpage="norma" alt=""/>
+    </file>
+    <file name="ns12p4030078.jpg" crc="3913336954" seo="true" ref="norma">
+      <caption webpage="norma" alt=""/>
+    </file>
+    <file name="ns13norma 21 - 8x10-1.jpg" crc="4180043406" seo="true" ref="norma">
+      <caption webpage="norma" alt=""/>
+    </file>
+    <file name="ns15norma - yellowcr.jpg" crc="4138848612" seo="true" ref="norma">
+      <caption webpage="norma" alt=""/>
+    </file>
+    <file name="ns16normacurtain.jpg" crc="4239698656" seo="true" ref="norma">
+      <caption webpage="norma" alt=""/>
+    </file>
+    <file name="ns14044.jpg" crc="508835094" seo="true" ref="norma">
+      <caption webpage="norma" alt=""/>
+    </file>
+    <file name="ns17altar1cr.jpg" crc="4248090715" seo="true" ref="norma">
+      <caption webpage="norma" alt=""/>
+    </file>
+    <file name="ns01360x50.jpg" crc="4002507685" seo="true" ref="norma">
+      <caption webpage="norma" alt=""/>
+    </file>
+    <file name="ns02young norma60x50.jpg" crc="3963161668" seo="true" ref="norma">
+      <caption webpage="norma" alt=""/>
+    </file>
+    <file name="ns03roberto - norma01cr60x50.jpg" crc="4277396478" seo="true" ref="norma">
+      <caption webpage="norma" alt=""/>
+    </file>
+    <file name="ns04960x50.jpg" crc="457261163" seo="true" ref="norma">
+      <caption webpage="norma" alt=""/>
+    </file>
+    <file name="ns053535_10200649443695379_521645391_n60x50.jpg" crc="473231934" seo="true" ref="norma">
+      <caption webpage="norma" alt=""/>
+    </file>
+    <file name="ns06886714_4336155651944_1727515692_o60x50.jpg" crc="74727642" seo="true" ref="norma">
+      <caption webpage="norma" alt=""/>
+    </file>
+    <file name="norma in 80s copy60x50.jpg" crc="4253744725" seo="true" ref="norma">
+      <caption webpage="norma" alt=""/>
+    </file>
+    <file name="ns07485203_10151500875654254_1728656053_n60x50.jpg" crc="4271012448" seo="true" ref="norma">
+      <caption webpage="norma" alt=""/>
+    </file>
+    <file name="ns10485062_10200643724112393_1423478954_n60x50.jpg" crc="4100288682" seo="true" ref="norma">
+      <caption webpage="norma" alt=""/>
+    </file>
+    <file name="ns08_1160x50.jpg" crc="353194359" seo="true" ref="norma">
+      <caption webpage="norma" alt=""/>
+    </file>
+    <file name="ns09rob-norm-jav60x50.jpg" crc="206524020" seo="true" ref="norma">
+      <caption webpage="norma" alt=""/>
+    </file>
+    <file name="ns11norma picture60x50.jpg" crc="10269188" seo="true" ref="norma">
+      <caption webpage="norma" alt=""/>
+    </file>
+    <file name="ns12p403007860x50.jpg" crc="3943863525" seo="true" ref="norma">
+      <caption webpage="norma" alt=""/>
+    </file>
+    <file name="ns13norma 21 - 8x10-160x48.jpg" crc="248328234" seo="true" ref="norma">
+      <caption webpage="norma" alt=""/>
+    </file>
+    <file name="ns15norma - yellowcr60x50.jpg" crc="482689337" seo="true" ref="norma">
+      <caption webpage="norma" alt=""/>
+    </file>
+    <file name="ns16normacurtain60x50.jpg" crc="413288811" seo="true" ref="norma">
+      <caption webpage="norma" alt=""/>
+    </file>
+    <file name="ns1404460x50.jpg" crc="3906484216" seo="true" ref="norma">
+      <caption webpage="norma" alt=""/>
+    </file>
+    <file name="ns17altar1cr60x50.jpg" crc="4054335203" seo="true" ref="norma">
+      <caption webpage="norma" alt=""/>
+    </file>
+    <file name="norma-inmemory-ol.png" crc="4016536482" seo="true" ref="norma">
+      <caption webpage="norma" alt=""/>
+    </file>
+    <file name="06roberto layers.jpg" crc="243188521" seo="true" ref="roberto">
+      <caption webpage="roberto" alt=""/>
+    </file>
+    <file name="roberto bkg-crop-u1093.jpg" crc="181217629" seo="true" ref="roberto">
+      <caption webpage="roberto" alt=""/>
+    </file>
+    <file name="u1872-4.png" crc="4118756280" ref="roberto"/>
+    <file name="rs01roberto11.jpg" crc="514850989" seo="true" ref="roberto">
+      <caption webpage="roberto" alt=""/>
+    </file>
+    <file name="rs02roberto04cr.jpg" crc="3845419991" seo="true" ref="roberto">
+      <caption webpage="roberto" alt=""/>
+    </file>
+    <file name="rs03decklefamily.jpg" crc="4169784174" seo="true" ref="roberto">
+      <caption webpage="roberto" alt=""/>
+    </file>
+    <file name="rs04family01cr.jpg" crc="220425694" seo="true" ref="roberto">
+      <caption webpage="roberto" alt=""/>
+    </file>
+    <file name="rs05roberto06.jpg" crc="4061006062" seo="true" ref="roberto">
+      <caption webpage="roberto" alt=""/>
+    </file>
+    <file name="rs07family03.jpg" crc="114340725" seo="true" ref="roberto">
+      <caption webpage="roberto" alt=""/>
+    </file>
+    <file name="rs08roberto13.jpg" crc="407076325" seo="true" ref="roberto">
+      <caption webpage="roberto" alt=""/>
+    </file>
+    <file name="rs09ms06roberto - norma01cr.jpg" crc="52578192" seo="true" ref="roberto">
+      <caption webpage="roberto" alt=""/>
+    </file>
+    <file name="rs06graphics04.jpg" crc="4167205828" seo="true" ref="roberto">
+      <caption webpage="roberto" alt=""/>
+    </file>
+    <file name="rs11ms07roberto05crop.jpg" crc="96899642" seo="true" ref="roberto">
+      <caption webpage="roberto" alt=""/>
+    </file>
+    <file name="rs13roberto16.jpg" crc="3798031161" seo="true" ref="roberto">
+      <caption webpage="roberto" alt=""/>
+    </file>
+    <file name="rs10ms0545cover02on yellow.jpg" crc="481058903" seo="true" ref="roberto">
+      <caption webpage="roberto" alt=""/>
+    </file>
+    <file name="rs14roberto03crop.jpg" crc="4098234135" seo="true" ref="roberto">
+      <caption webpage="roberto" alt=""/>
+    </file>
+    <file name="rs12roberto14.jpg" crc="4138291461" seo="true" ref="roberto">
+      <caption webpage="roberto" alt=""/>
+    </file>
+    <file name="rs15ms11norma05cr.jpg" crc="451023391" seo="true" ref="roberto">
+      <caption webpage="roberto" alt=""/>
+    </file>
+    <file name="rs16ms14roberto02cr.jpg" crc="22945050" seo="true" ref="roberto">
+      <caption webpage="roberto" alt=""/>
+    </file>
+    <file name="rs01roberto1160x50.jpg" crc="443937555" seo="true" ref="roberto">
+      <caption webpage="roberto" alt=""/>
+    </file>
+    <file name="rs02roberto04cr60x50.jpg" crc="328215984" seo="true" ref="roberto">
+      <caption webpage="roberto" alt=""/>
+    </file>
+    <file name="rs03decklefamily60x50.jpg" crc="3878059397" seo="true" ref="roberto">
+      <caption webpage="roberto" alt=""/>
+    </file>
+    <file name="rs04family01cr60x50.jpg" crc="268859620" seo="true" ref="roberto">
+      <caption webpage="roberto" alt=""/>
+    </file>
+    <file name="rs05roberto0660x50.jpg" crc="314619943" seo="true" ref="roberto">
+      <caption webpage="roberto" alt=""/>
+    </file>
+    <file name="rs07family0360x50.jpg" crc="4110044358" seo="true" ref="roberto">
+      <caption webpage="roberto" alt=""/>
+    </file>
+    <file name="rs08roberto1360x50.jpg" crc="405566466" seo="true" ref="roberto">
+      <caption webpage="roberto" alt=""/>
+    </file>
+    <file name="rs09ms06roberto - norma01cr60x50.jpg" crc="4277396478" seo="true" ref="roberto">
+      <caption webpage="roberto" alt=""/>
+    </file>
+    <file name="rs06graphics0460x50.jpg" crc="120946269" seo="true" ref="roberto">
+      <caption webpage="roberto" alt=""/>
+    </file>
+    <file name="rs11ms07roberto05crop60x50.jpg" crc="534871763" seo="true" ref="roberto">
+      <caption webpage="roberto" alt=""/>
+    </file>
+    <file name="rs13roberto1660x50.jpg" crc="54155721" seo="true" ref="roberto">
+      <caption webpage="roberto" alt=""/>
+    </file>
+    <file name="rs10ms0545cover02on yellow60x50.jpg" crc="286378457" seo="true" ref="roberto">
+      <caption webpage="roberto" alt=""/>
+    </file>
+    <file name="rs14roberto03crop60x50.jpg" crc="482083874" seo="true" ref="roberto">
+      <caption webpage="roberto" alt=""/>
+    </file>
+    <file name="rs12roberto1460x50.jpg" crc="525758260" seo="true" ref="roberto">
+      <caption webpage="roberto" alt=""/>
+    </file>
+    <file name="rs15ms11norma05cr60x50.jpg" crc="305921921" seo="true" ref="roberto">
+      <caption webpage="roberto" alt=""/>
+    </file>
+    <file name="rs16ms14roberto02cr60x50.jpg" crc="169141925" seo="true" ref="roberto">
+      <caption webpage="roberto" alt=""/>
+    </file>
+    <file name="u8023-8.png" crc="4162617836" ref="roberto"/>
+    <file name="paintslash.png" crc="3823314611" ref="roberto:roberto-bravo!">
+      <caption webpage="roberto-bravo!" alt=""/>
+      <caption webpage="roberto-bravo!" alt=""/>
+      <caption webpage="roberto-bravo!" alt=""/>
+      <caption webpage="roberto-bravo!" alt=""/>
+      <caption webpage="roberto-bravo!" alt=""/>
+      <caption webpage="roberto" alt=""/>
+      <caption webpage="roberto" alt=""/>
+      <caption webpage="roberto" alt=""/>
+      <caption webpage="roberto" alt=""/>
+      <caption webpage="roberto" alt=""/>
+    </file>
+    <file name="paintslash02.png" crc="3897673918" ref="roberto:roberto-bravo!">
+      <caption webpage="roberto-bravo!" alt=""/>
+      <caption webpage="roberto-bravo!" alt=""/>
+      <caption webpage="roberto-bravo!" alt=""/>
+      <caption webpage="roberto-bravo!" alt=""/>
+      <caption webpage="roberto-bravo!" alt=""/>
+      <caption webpage="roberto" alt=""/>
+      <caption webpage="roberto" alt=""/>
+      <caption webpage="roberto" alt=""/>
+      <caption webpage="roberto" alt=""/>
+      <caption webpage="roberto" alt=""/>
+    </file>
+    <file name="u5841-4.png" crc="42296670" ref="credits---thank-you!"/>
+    <file name="norma-s pattern 03.jpg" crc="4136689643" ref="zenteno-sculpture-project:donors">
+      <caption webpage="donors" alt=""/>
+      <caption webpage="zenteno-sculpture-project" alt=""/>
+    </file>
+    <file name="norma-memory-update.svg" crc="3837492428" seo="true" ref="zenteno-sculpture-project:donors">
+      <caption webpage="donors" alt=""/>
+      <caption webpage="zenteno-sculpture-project" alt=""/>
+    </file>
+    <file name="norma memory update_poster_.png" crc="255552366" ref="zenteno-sculpture-project"/>
+    <file name="norma statue copy 3.png" crc="3927242059" seo="true" ref="zenteno-sculpture-project:donors">
+      <caption webpage="donors" alt=""/>
+      <caption webpage="zenteno-sculpture-project" alt=""/>
+    </file>
+    <file name="u7866-8.png" crc="298735761" ref="zenteno-sculpture-project"/>
+    <file name="u8680-4.png" crc="4066146613" ref="zenteno-sculpture-project"/>
+    <file name="u10448-4.png" crc="4274869305" ref="zenteno-sculpture-project"/>
+    <file name="u11732-4.png" crc="4231297820" ref="zenteno-sculpture-project"/>
+    <file name="u15105-4.png" crc="4121037723" ref="zenteno-sculpture-project"/>
+    <file name="u11679-6.png" crc="4188101084" ref="zenteno-sculpture-project"/>
+    <file name="sculpt1184022969_10157687936030196_3088316356110581760_o.jpg" crc="3830555975" seo="true" ref="zenteno-sculpture-project">
+      <caption webpage="zenteno-sculpture-project" alt=""/>
+    </file>
+    <file name="sculpt0387800640_10157687936090196_8718493133651836928_o.jpg" crc="3799806549" seo="true" ref="zenteno-sculpture-project">
+      <caption webpage="zenteno-sculpture-project" alt=""/>
+    </file>
+    <file name="sculpt0487742318_10157687935670196_7747670670368047104_o.jpg" crc="181914623" seo="true" ref="zenteno-sculpture-project">
+      <caption webpage="zenteno-sculpture-project" alt=""/>
+    </file>
+    <file name="sculpt01img_4790-crop-u13242.jpg" crc="158857654" seo="true" ref="zenteno-sculpture-project">
+      <caption webpage="zenteno-sculpture-project" alt=""/>
+    </file>
+    <file name="sculpt0587534230_10157687935885196_6560387477478047744_o.jpg" crc="291808334" seo="true" ref="zenteno-sculpture-project">
+      <caption webpage="zenteno-sculpture-project" alt=""/>
+    </file>
+    <file name="sculpt02plc09699.jpg" crc="3887692409" seo="true" ref="zenteno-sculpture-project">
+      <caption webpage="zenteno-sculpture-project" alt=""/>
+    </file>
+    <file name="sculpt13fb_img_1582464611574.jpg" crc="334636728" seo="true" ref="zenteno-sculpture-project">
+      <caption webpage="zenteno-sculpture-project" alt=""/>
+    </file>
+    <file name="sculpt14plc09552.jpg" crc="288819206" seo="true" ref="zenteno-sculpture-project">
+      <caption webpage="zenteno-sculpture-project" alt=""/>
+    </file>
+    <file name="sculpt15plc09623.jpg" crc="10786358" seo="true" ref="zenteno-sculpture-project">
+      <caption webpage="zenteno-sculpture-project" alt=""/>
+    </file>
+    <file name="sculpt16plc09587.jpg" crc="3973563101" seo="true" ref="zenteno-sculpture-project">
+      <caption webpage="zenteno-sculpture-project" alt=""/>
+    </file>
+    <file name="sculpt17plc09537.jpg" crc="409158710" seo="true" ref="zenteno-sculpture-project">
+      <caption webpage="zenteno-sculpture-project" alt=""/>
+    </file>
+    <file name="sculpt20 plc09592.jpg" crc="4217343009" seo="true" ref="zenteno-sculpture-project">
+      <caption webpage="zenteno-sculpture-project" alt=""/>
+    </file>
+    <file name="sculpt18plc09541.jpg" crc="96356187" seo="true" ref="zenteno-sculpture-project">
+      <caption webpage="zenteno-sculpture-project" alt=""/>
+    </file>
+    <file name="sculpt19plc09556.jpg" crc="189781569" seo="true" ref="zenteno-sculpture-project">
+      <caption webpage="zenteno-sculpture-project" alt=""/>
+    </file>
+    <file name="sculpt0687283914_10157687935595196_8370706318612234240_n-crop-u13482.jpg" crc="233910217" seo="true" ref="zenteno-sculpture-project">
+      <caption webpage="zenteno-sculpture-project" alt=""/>
+    </file>
+    <file name="sculpt0787477019_10157687935825196_5228129355728683008_n.jpg" crc="4075693938" seo="true" ref="zenteno-sculpture-project">
+      <caption webpage="zenteno-sculpture-project" alt=""/>
+    </file>
+    <file name="sculpt0887589399_10157687935585196_1342720911190523904_n.jpg" crc="4080305834" seo="true" ref="zenteno-sculpture-project">
+      <caption webpage="zenteno-sculpture-project" alt=""/>
+    </file>
+    <file name="sculpt0987430112_10157687935820196_3376042949778341888_n.jpg" crc="4213149982" seo="true" ref="zenteno-sculpture-project">
+      <caption webpage="zenteno-sculpture-project" alt=""/>
+    </file>
+    <file name="sculpt1087339521_10157687936115196_6647988339116867584_o.jpg" crc="4062212819" seo="true" ref="zenteno-sculpture-project">
+      <caption webpage="zenteno-sculpture-project" alt=""/>
+    </file>
+    <file name="sculpt1220200222_162542-crop-u13602.jpg" crc="154056545" seo="true" ref="zenteno-sculpture-project">
+      <caption webpage="zenteno-sculpture-project" alt=""/>
+    </file>
+    <file name="sculpt1184022969_10157687936030196_3088316356110581760_o68x45.jpg" crc="4157065574" seo="true" ref="zenteno-sculpture-project">
+      <caption webpage="zenteno-sculpture-project" alt=""/>
+    </file>
+    <file name="sculpt0387800640_10157687936090196_8718493133651836928_o68x45.jpg" crc="487165932" seo="true" ref="zenteno-sculpture-project">
+      <caption webpage="zenteno-sculpture-project" alt=""/>
+    </file>
+    <file name="sculpt0487742318_10157687935670196_7747670670368047104_o68x45.jpg" crc="4228389843" seo="true" ref="zenteno-sculpture-project">
+      <caption webpage="zenteno-sculpture-project" alt=""/>
+    </file>
+    <file name="sculpt01img_479060x45.jpg" crc="379937356" seo="true" ref="zenteno-sculpture-project">
+      <caption webpage="zenteno-sculpture-project" alt=""/>
+    </file>
+    <file name="sculpt0587534230_10157687935885196_6560387477478047744_o68x45.jpg" crc="4017039476" seo="true" ref="zenteno-sculpture-project">
+      <caption webpage="zenteno-sculpture-project" alt=""/>
+    </file>
+    <file name="sculpt02plc0969968x45.jpg" crc="4127095441" seo="true" ref="zenteno-sculpture-project">
+      <caption webpage="zenteno-sculpture-project" alt=""/>
+    </file>
+    <file name="sculpt13fb_img_158246461157468x45.jpg" crc="3838355956" seo="true" ref="zenteno-sculpture-project">
+      <caption webpage="zenteno-sculpture-project" alt=""/>
+    </file>
+    <file name="sculpt14plc0955268x45.jpg" crc="493294964" seo="true" ref="zenteno-sculpture-project">
+      <caption webpage="zenteno-sculpture-project" alt=""/>
+    </file>
+    <file name="sculpt15plc0962368x45.jpg" crc="32005811" seo="true" ref="zenteno-sculpture-project">
+      <caption webpage="zenteno-sculpture-project" alt=""/>
+    </file>
+    <file name="sculpt16plc0958768x45.jpg" crc="3832414781" seo="true" ref="zenteno-sculpture-project">
+      <caption webpage="zenteno-sculpture-project" alt=""/>
+    </file>
+    <file name="sculpt17plc0953768x45.jpg" crc="126413775" seo="true" ref="zenteno-sculpture-project">
+      <caption webpage="zenteno-sculpture-project" alt=""/>
+    </file>
+    <file name="sculpt20 plc0959268x45.jpg" crc="4097733694" seo="true" ref="zenteno-sculpture-project">
+      <caption webpage="zenteno-sculpture-project" alt=""/>
+    </file>
+    <file name="sculpt18plc0954168x45.jpg" crc="4263607845" seo="true" ref="zenteno-sculpture-project">
+      <caption webpage="zenteno-sculpture-project" alt=""/>
+    </file>
+    <file name="sculpt19plc0955668x45.jpg" crc="4187882645" seo="true" ref="zenteno-sculpture-project">
+      <caption webpage="zenteno-sculpture-project" alt=""/>
+    </file>
+    <file name="sculpt0687283914_10157687935595196_8370706318612234240_n-crop-u13488.jpg" crc="3760015295" seo="true" ref="zenteno-sculpture-project">
+      <caption webpage="zenteno-sculpture-project" alt=""/>
+    </file>
+    <file name="sculpt0787477019_10157687935825196_5228129355728683008_n-crop-u13508.jpg" crc="4229400081" seo="true" ref="zenteno-sculpture-project">
+      <caption webpage="zenteno-sculpture-project" alt=""/>
+    </file>
+    <file name="sculpt0887589399_10157687935585196_1342720911190523904_n-crop-u13528.jpg" crc="3834179745" seo="true" ref="zenteno-sculpture-project">
+      <caption webpage="zenteno-sculpture-project" alt=""/>
+    </file>
+    <file name="sculpt0987430112_10157687935820196_3376042949778341888_n-crop-u13548.jpg" crc="4161213407" seo="true" ref="zenteno-sculpture-project">
+      <caption webpage="zenteno-sculpture-project" alt=""/>
+    </file>
+    <file name="sculpt1087339521_10157687936115196_6647988339116867584_o-crop-u13568.jpg" crc="292421922" seo="true" ref="zenteno-sculpture-project">
+      <caption webpage="zenteno-sculpture-project" alt=""/>
+    </file>
+    <file name="sculpt1220200222_16254260x45.jpg" crc="82960979" seo="true" ref="zenteno-sculpture-project">
+      <caption webpage="zenteno-sculpture-project" alt=""/>
+    </file>
+    <file name="u13641-4.png" crc="325430099" ref="zenteno-sculpture-project"/>
+    <file name="placement 2.jpg" crc="3781055767" seo="true" ref="zenteno-sculpture-project">
+      <caption webpage="zenteno-sculpture-project" alt=""/>
+    </file>
+    <file name="placement 3.jpg" crc="3928598067" seo="true" ref="zenteno-sculpture-project">
+      <caption webpage="zenteno-sculpture-project" alt=""/>
+    </file>
+    <file name="placement 4.jpg" crc="4273470741" seo="true" ref="zenteno-sculpture-project">
+      <caption webpage="zenteno-sculpture-project" alt=""/>
+    </file>
+    <file name="placement 5.jpg" crc="4621003" seo="true" ref="zenteno-sculpture-project">
+      <caption webpage="zenteno-sculpture-project" alt=""/>
+    </file>
+    <file name="placement 11.jpg" crc="365757030" seo="true" ref="zenteno-sculpture-project">
+      <caption webpage="zenteno-sculpture-project" alt=""/>
+    </file>
+    <file name="placement 268x45.jpg" crc="3860949479" seo="true" ref="zenteno-sculpture-project">
+      <caption webpage="zenteno-sculpture-project" alt=""/>
+    </file>
+    <file name="placement 368x45.jpg" crc="18264213" seo="true" ref="zenteno-sculpture-project">
+      <caption webpage="zenteno-sculpture-project" alt=""/>
+    </file>
+    <file name="placement 468x45.jpg" crc="219655488" seo="true" ref="zenteno-sculpture-project">
+      <caption webpage="zenteno-sculpture-project" alt=""/>
+    </file>
+    <file name="placement 568x45.jpg" crc="4081374802" seo="true" ref="zenteno-sculpture-project">
+      <caption webpage="zenteno-sculpture-project" alt=""/>
+    </file>
+    <file name="placement 11-crop-u15603.jpg" crc="4216372992" seo="true" ref="zenteno-sculpture-project">
+      <caption webpage="zenteno-sculpture-project" alt=""/>
+    </file>
+    <file name="bridgitte with alice.jpg" crc="374423170" seo="true" ref="zenteno-sculpture-project">
+      <caption webpage="zenteno-sculpture-project" alt=""/>
+    </file>
+    <file name="doc title.jpg" crc="3763807411" seo="true" ref="zenteno-sculpture-project:zenteno-sculpture-project-donate">
+      <caption webpage="zenteno-sculpture-project" alt=""/>
+      <caption webpage="zenteno-sculpture-project-donate" alt=""/>
+    </file>
+    <file name="donor starbutton.png" crc="92982694" ref="zenteno-sculpture-project">
+      <caption webpage="zenteno-sculpture-project" alt=""/>
+    </file>
+    <file name="donor starbutton2.png" crc="92982694" ref="zenteno-sculpture-project">
+      <caption webpage="zenteno-sculpture-project" alt=""/>
+    </file>
+    <file name="u8497-4.png" crc="4253900668" ref="roberto-bravo!:wishes:semana:ricky:chronicle"/>
+    <file name="u8501-4.png" crc="206517237" ref="roberto-bravo!:wishes:semana:ricky:chronicle"/>
+    <file name="u8510-4.png" crc="433243093" ref="roberto-bravo!:wishes:semana:ricky:chronicle"/>
+    <file name="u8504-4.png" crc="4236195898" ref="roberto-bravo!:wishes:semana:ricky:chronicle"/>
+    <file name="u8507-4.png" crc="4231225462" ref="roberto-bravo!:wishes:semana:ricky:chronicle"/>
+    <file name="u8513-4.png" crc="3813466065" ref="roberto-bravo!:wishes:semana:ricky:chronicle"/>
+    <file name="u8062-8.png" crc="4458581" ref="roberto-bravo!"/>
+    <file name="u8069-49.png" crc="4259884404" ref="roberto-bravo!"/>
+    <file name="u8072-38.png" crc="4196758852" ref="roberto-bravo!"/>
+    <file name="u8075-9.png" crc="460809876" ref="roberto-bravo!"/>
+    <file name="u8116-5.png" crc="4289538982" ref="wishes"/>
+    <file name="u8207-10.png" crc="4243893650" ref="semana"/>
+    <file name="u8204-33.png" crc="4123493028" ref="semana"/>
+    <file name="u8256-6.png" crc="364991396" ref="ricky"/>
+    <file name="u8254-29.png" crc="200976089" ref="ricky"/>
+    <file name="u8312-8.png" crc="3964392320" ref="chronicle"/>
+    <file name="u8314-41.png" crc="190858999" ref="chronicle"/>
+    <file name="paypalready.jpg" crc="39328864" seo="true" ref="assets">
+      <caption webpage="assets" alt=""/>
+    </file>
+    <file name="npat01.jpg" crc="314877373" seo="true" ref="assets">
+      <caption webpage="assets" alt=""/>
+    </file>
+    <file name="gofundmebutton.jpg" crc="450477835" seo="true" ref="assets">
+      <caption webpage="assets" alt=""/>
+    </file>
+    <file name="zentenosculpture_savethedate.jpg" crc="4165811207" seo="true" ref="assets">
+      <caption webpage="assets" alt=""/>
+      <caption webpage="assets" alt=""/>
+      <caption webpage="assets" alt=""/>
+    </file>
+    <file name="u9566-8.png" crc="4034952240" ref="donors"/>
+    <file name="u9601-4.png" crc="306432130" ref="donors"/>
+    <file name="mexican embroidary.png" crc="3539397" seo="true" ref="donors">
+      <caption webpage="donors" alt=""/>
+    </file>
+    <file name="mexican embroidary2.png" crc="3837580038" seo="true" ref="donors">
+      <caption webpage="donors" alt=""/>
+    </file>
+    <file name="mexican embroidary3.png" crc="4123521183" seo="true" ref="donors">
+      <caption webpage="donors" alt=""/>
+    </file>
+    <file name="mex embroidery - small.png" crc="3842952814" seo="true" ref="donors">
+      <caption webpage="donors" alt=""/>
+    </file>
+    <file name="u11696-4-a.png" crc="347160142" ref="donors"/>
+    <file name="u11715-4.png" crc="4071561021" ref="donors"/>
+    <file name="u10130-8.png" crc="298735761" ref="zenteno-doc-trailer"/>
+    <file name="video header.jpg" crc="418768245" ref="zenteno-doc-trailer">
+      <caption webpage="zenteno-doc-trailer" alt=""/>
+    </file>
+    <file name="u10390-4.png" crc="4253924799" ref="zenteno-doc-trailer:zenteno-documentary"/>
+    <file name="u10378-4.png" crc="3884418594" ref="zenteno-doc-trailer:zenteno-documentary"/>
+    <file name="u10392-4.png" crc="168450320" ref="zenteno-doc-trailer:zenteno-documentary"/>
+    <file name="u10375-4.png" crc="4200241555" ref="zenteno-doc-trailer:zenteno-documentary"/>
+    <file name="u10380-4.png" crc="4249716685" ref="zenteno-doc-trailer:zenteno-documentary"/>
+    <file name="u10384-4.png" crc="43107297" ref="zenteno-doc-trailer:zenteno-documentary"/>
+    <file name="u10387-8.png" crc="144454332" ref="zenteno-doc-trailer:zenteno-documentary"/>
+    <file name="donate-pattern03.jpg" crc="3904147840" ref="zenteno-sculpture-project-donate">
+      <caption webpage="zenteno-sculpture-project-donate" alt=""/>
+    </file>
+    <file name="screen shot 2017-07-13 at 52115 pm.jpg" crc="306599089" ref="zenteno-sculpture-project-donate">
+      <caption webpage="zenteno-sculpture-project-donate" alt=""/>
+    </file>
+    <file name="donor starbutton-u10797.png" crc="4119545240" ref="zenteno-sculpture-project-donate"/>
+    <file name="donor starbutton-u10797-r.png" crc="104384849" ref="zenteno-sculpture-project-donate"/>
+    <file name="zenteno sculp proj white pink.png" crc="267607965" seo="true" ref="zenteno-sculpture-project-donate">
+      <caption webpage="zenteno-sculpture-project-donate" alt=""/>
+    </file>
+    <file name="u10858-4.png" crc="329741090" ref="zenteno-sculpture-project-donate"/>
+    <file name="platinum-record---noun_15406.svg" crc="3973447477" seo="true" ref="zenteno-sculpture-project-donate">
+      <caption webpage="zenteno-sculpture-project-donate" alt=""/>
+    </file>
+    <file name="platinum record - noun_15406_poster_.png" crc="151798300" ref="zenteno-sculpture-project-donate"/>
+    <file name="guitar--noun_35620_silver.svg" crc="139900207" seo="true" ref="zenteno-sculpture-project-donate">
+      <caption webpage="zenteno-sculpture-project-donate" alt=""/>
+    </file>
+    <file name="guitar- noun_35620_silver_poster_.png" crc="4188235859" ref="zenteno-sculpture-project-donate"/>
+    <file name="guitar--noun_35620.svg" crc="3961934131" seo="true" ref="zenteno-sculpture-project-donate">
+      <caption webpage="zenteno-sculpture-project-donate" alt=""/>
+    </file>
+    <file name="guitar- noun_35620_poster_.png" crc="3919427058" ref="zenteno-sculpture-project-donate"/>
+    <file name="trumpet---noun_132732.svg" crc="240899925" seo="true" ref="zenteno-sculpture-project-donate">
+      <caption webpage="zenteno-sculpture-project-donate" alt=""/>
+    </file>
+    <file name="trumpet - noun_132732_poster_.png" crc="34939288" ref="zenteno-sculpture-project-donate"/>
+    <file name="keyboard---noun_77936.svg" crc="53110585" seo="true" ref="zenteno-sculpture-project-donate">
+      <caption webpage="zenteno-sculpture-project-donate" alt=""/>
+    </file>
+    <file name="keyboard - noun_77936_poster_.png" crc="3778169126" ref="zenteno-sculpture-project-donate"/>
+    <file name="tambourine-noun_178171.svg" crc="274124861" seo="true" ref="zenteno-sculpture-project-donate">
+      <caption webpage="zenteno-sculpture-project-donate" alt=""/>
+    </file>
+    <file name="tambourine noun_178171_poster_.png" crc="74491778" ref="zenteno-sculpture-project-donate"/>
+    <file name="mic-01---noun_17670.svg" crc="3851739204" seo="true" ref="zenteno-sculpture-project-donate">
+      <caption webpage="zenteno-sculpture-project-donate" alt=""/>
+    </file>
+    <file name="mic 01 - noun_17670_poster_.png" crc="86745670" ref="zenteno-sculpture-project-donate"/>
+    <file name="norma-roady.svg" crc="336368573" seo="true" ref="zenteno-sculpture-project-donate">
+      <caption webpage="zenteno-sculpture-project-donate" alt=""/>
+    </file>
+    <file name="norma-roady_poster_.png" crc="41184115" ref="zenteno-sculpture-project-donate"/>
+    <file name="norma-memory-t.png" crc="4019613199" seo="true" ref="zenteno-sculpture-project-donate">
+      <caption webpage="zenteno-sculpture-project-donate" alt=""/>
+    </file>
+    <file name="u11918-4.png" crc="347160142" ref="zenteno-sculpture-project-donate"/>
+    <file name="u11923-4-a.png" crc="3772174371" ref="zenteno-sculpture-project-donate"/>
+    <file name="u11927-4.png" crc="4071561021" ref="zenteno-sculpture-project-donate"/>
+    <file name="norma memory update.png" crc="4260706068" seo="true" ref="zenteno-sculpture-project-donate">
+      <caption webpage="zenteno-sculpture-project-donate" alt=""/>
+    </file>
+    <file name="u13774-8.png" crc="298735761" ref="zenteno-documentary"/>
+    <file name="zenteno documentary header2.jpg" crc="152305447" ref="zenteno-documentary">
+      <caption webpage="zenteno-documentary" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="459695412" seo="true" mt="1672410707381" redirect="true"/>
+  <file name="history.html" crc="268725699" seo="true" mt="1663079300385" redirect="true"/>
+  <file name="merchandise.html" crc="4054394659" seo="true" mt="1663079090231" redirect="true"/>
+  <file name="the-band.html" crc="493372352" seo="true" mt="1666291056141" redirect="true"/>
+  <file name="norma.html" crc="3909481516" seo="true" mt="1663083959345" redirect="true"/>
+  <file name="roberto.html" crc="497106028" seo="true" mt="1663079243649" redirect="true"/>
+  <file name="credits---thank-you!.html" crc="4001676220" seo="true" mt="1663077319779" redirect="true"/>
+  <file name="zenteno-sculpture-project.html" crc="4228627609" seo="true" mt="1666043844991" redirect="true"/>
+  <file name="roberto-bravo!.html" crc="3897315770" seo="true" mt="1663079403358" redirect="true"/>
+  <file name="wishes.html" crc="223479442" seo="true" mt="1663079686463" redirect="true"/>
+  <file name="semana.html" crc="4069633326" seo="true" mt="1663079461587" redirect="true"/>
+  <file name="ricky.html" crc="3806703913" seo="true" mt="1663079512578" redirect="true"/>
+  <file name="chronicle.html" crc="314737051" seo="true" mt="1663079561953" redirect="true"/>
+  <file name="assets.html" crc="4275773363" seo="true" mt="1663074470784" redirect="true"/>
+  <file name="donors.html" crc="4254869696" seo="true" mt="1663077201260" redirect="true"/>
+  <file name="zenteno-doc-trailer.html" crc="460769741" seo="true" mt="1663077261820" redirect="true"/>
+  <file name="zenteno-sculpture-project-donate.html" crc="3876552807" seo="true" mt="1663077571959" redirect="true"/>
+  <file name="zenteno-documentary.html" crc="267149997" seo="true" mt="1663074291987" redirect="true"/>
+</manifest>
